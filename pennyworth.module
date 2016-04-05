@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the pennyworth feature.
+ */
+
+include_once 'pennyworth.features.inc';
